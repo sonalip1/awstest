@@ -1,0 +1,22 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonalip1/awstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonalip1/awstest/issues"
+  },
+  "homepage": "https://github.com/sonalip1/awstest#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
